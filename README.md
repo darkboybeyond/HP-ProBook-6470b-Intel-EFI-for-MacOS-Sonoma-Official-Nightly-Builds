@@ -56,13 +56,24 @@ I am excited to announce that I will be **providing nightly builds for the EFI f
 **Bootloader:** OpenCore (version X.X.X)
 
 **Essential Kexts:**
-- Lilu.kext
-- WhateverGreen.kext
+- AirportItlwm.kext
+- AMFIPass.kext
 - AppleALC.kext
+- AppleALCU.kext
+- BlueToolFixup.kext
+- BrcmBluetoothInjector.kext
+- BrcmFirmwareData.kext
+- BrcmPatchRAM3.kext
+- CryptexFixup.kext
+- Intel7Series-Injector.kext
 - IntelMausi.kext
-- AirportBrcmFixup.kext
-- USBInjectAll.kext
+- Lilu.kext
+- RealtekRTL8111.kext
+- SMCBatteryManager.kext
+- SMCProcessor.kext
 - VirtualSMC.kext
+- VoodooPS2Controller.kext
+- WhateverGreen.kext
 
 **Drivers:**
 - OpenRuntime.efi
