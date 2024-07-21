@@ -115,21 +115,18 @@ Your dedication and hard work have made it possible to bring macOS to non-Apple 
 
 > Wi-Fi working
 
-![Springboard/Launchpad](https://i.imgur.com/cFDoRvm.png)
+![Springboard/Launchpad](https://i.imgur.com/d4bOP7B.png)
 
 > Springboard/Launchpad
 
-![Intel HD 4000 Driver working](https://i.imgur.com/KB7EoWq.png)
+![LCD Brightness working](https://i.imgur.com/Lh9JMGG.png)
 
-> Intel HD 4000 Driver working
+> LCD Brightness working
 
-![About Mac](https://i.imgur.com/TdK1Enw.png)
+![About Mac](https://i.imgur.com/dvCqIUA.png)
 
 > About Mac
 
-![Stock Wi-Fi List](https://i.imgur.com/N9zbIuc.png)
-
-> Stock Wi-Fi List
 
 ## 💖 Donations:
 
