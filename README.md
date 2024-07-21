@@ -111,9 +111,6 @@ Your dedication and hard work have made it possible to bring macOS to non-Apple 
 
 ## Images
 
-![Wi-Fi working](https://i.imgur.com/5ck6xZA.png)
-
-> Wi-Fi working
 
 ![Springboard/Launchpad](https://i.imgur.com/d4bOP7B.png)
 
